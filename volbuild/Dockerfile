@@ -1,5 +1,5 @@
-FROM meteorhacks/meteord:base
-MAINTAINER MeteorHacks Pvt Ltd.
+FROM signmeup/meteord:base
+MAINTAINER SignMeUp
 
 ONBUILD ENV METEORD_VOLBUILD=true
 

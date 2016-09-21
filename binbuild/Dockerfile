@@ -1,5 +1,5 @@
-FROM meteorhacks/meteord:base
-MAINTAINER MeteorHacks Pvt Ltd.
+FROM signmeup/meteord:base
+MAINTAINER SignMeUp
 
 COPY scripts/install_binbuild_tools.sh $METEORD_DIR/install_binbuild_tools.sh
 COPY scripts/rebuild_npm_modules.sh $METEORD_DIR/rebuild_npm_modules.sh

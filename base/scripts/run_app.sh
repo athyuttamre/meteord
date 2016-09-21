@@ -1,3 +1,5 @@
+echo "=> Preparing to start app..."
+
 set -e
 
 if [ -d /bundle ]; then
