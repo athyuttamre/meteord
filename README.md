@@ -1,4 +1,4 @@
->MeteorD is no longer used by SignMeUp, deprecated in favor of a smaller, local Dockerfile. Check the main repo for the latest version.
+>MeteorD is no longer used by SignMeUp in production, deprecated in favor of a smaller, local Dockerfile. Check the main repo for the latest version. We still use it for local development from time to time, but new solutions are being explored.
 
 ---
 
