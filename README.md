@@ -1,4 +1,7 @@
-[![Circle CI](https://circleci.com/gh/meteorhacks/meteord/tree/master.svg?style=svg)](https://circleci.com/gh/meteorhacks/meteord/tree/master)
+>MeteorD is no longer used by SignMeUp, deprecated in favor of a smaller, local Dockerfile. Check the main repo for the latest version.
+
+---
+
 ## MeteorD - Docker Runtime for Meteor Apps 
 
 There are two main ways you can use Docker with Meteor apps. They are:
